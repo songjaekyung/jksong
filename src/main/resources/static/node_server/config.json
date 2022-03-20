@@ -1,0 +1,17 @@
+{
+  "socketURL": "https://songjaekyung.com:8880/",
+  "dirPath": "",
+  "homePage": "/demos/index.html",
+  "socketMessageEvent": "RTCMultiConnection-Message",
+  "socketCustomEvent": "RTCMultiConnection-Custom-Message",
+  "port": "8880",
+  "enableLogs": "false",
+  "autoRebootServerOnFailure": "false",
+  "isUseHTTPs": "ture",
+  "sslKey": "songjaekyung_com.key",
+  "sslCert": "songjaekyung_com.crt",
+  "sslCabundle": "",
+  "enableAdmin": "true",
+  "adminUserName": "username",
+  "adminPassword": "password"
+}
